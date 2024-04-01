@@ -1,0 +1,17 @@
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 12
+
+[font.bold]
+family = "Source Code Pro"
+
+[font.italic]
+family = "Source Code Pro"
+
+[font.normal]
+family = "Source Code Pro"
+
+[window]
+opacity = 0.7
